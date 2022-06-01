@@ -33,19 +33,19 @@ Na aula 09 foi ensinado um pouco sobre os arrays bidimensionais explicando a uti
 Foi ensinado como trabalhar com mais de 2 arrays mostrando que a logica é a mesma para 3 ou mais arrays e como fazer um loop para ver os elementos separadamente.
 <br><br>
 <h3>Aula 11 - Pilhas<h3>
-
+Nessa primeira aula sobre pilhas ele explicou o que é e como funciona e apresentou brevemente os métodos que são utilizados em pilhas como push, pop, peek, isEmpty, clear, size e print. Basicamente o último item da pilha é o primeiro a sair diferente da fila.
 <br><br>
 <h3>Aula 12 - Métodos da pilha<h3>
-
+Nessa segunda aula sobre pilha ele mostrou como funciona os métodos de utilizadas em uma pilha dentro de uma class.
 <br><br>
 <h3>Aula 13 - Testando a pilha<h3>
-
+Essa aula foi mais prática e foi ensinado e testado na pratica todos os métodos criados anteriomente na aula 11 e todos os métodos deram certo.
 <br><br>
 <h3>Aula 14 - Análise gráfica das pilhas<h3>
-
+Nessa aula esse fez uma análise gráfica das pilhas mostrando como funciona na teoria uma pilha, adicionando e tirando itens.
 <br><br>
 <h3>Aula 15 - Decimal para binário (pilhas) PT1<h3>
-
+Na aula 15 a gente criou um algoritmo onde ele converte numeros decimais em binarios utilizando métodos aprendidos em aulas anteriores como push e pop.
 <br><br>
 <h3>Aula 16 - Decimal para binário (pilhas) PT2<h3>
 

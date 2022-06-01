@@ -80,13 +80,13 @@ var lastWeek = [avgTempWeek3, avgTempWeek4];
 
 var month = [firstWeek, lastWeek];
 
-// console.log(month[1][1][2]);
+console.log(month[1][1][2]);
 
-// month.forEach(function each(item) {
-//     if (Array.isArray(item)) {
-//         item.forEach(each);
-//     } else {
-//         console.log(item);
-//     }
-// });
+month.forEach(function each(item) {
+    if (Array.isArray(item)) {
+        item.forEach(each);
+    } else {
+        console.log(item);
+    }
+});
 

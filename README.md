@@ -48,17 +48,17 @@ Nessa aula esse fez uma análise gráfica das pilhas mostrando como funciona na 
 Na aula 15 a gente criou um algoritmo onde ele converte numeros decimais em binarios utilizando métodos aprendidos em aulas anteriores como push e pop.
 <br><br>
 <h3>Aula 16 - Decimal para binário (pilhas) PT2<h3>
-
+Nessa aula foi explicado linha a linha o algortimo construido na aula 15 e também foi feito calculo para confirmar se o algoritmo estava funcional.
 <br><br>
 <h3>Aula 17 - Conversor de base (pilhas) PT1<h3>
-
+Nessa a gente criou um algoritmo onde ele converte numeros decimais em base (Binário(2), Octal(8), Hexadecimal(16)) utilizando métodos aprendidos em aulas anteriores como push e pop.
 <br><br>
 <h3>Aula 18 - Conversor de base (pilhas) PT2<h3>
-
+Foi explicado linha a linha o algortimo construido na aula 18 e também foi feito calculo para confirmar se o algoritmo estava funcional.
 <br><br>
 <h3>Aula 19 - Filas<h3>
-
+Nessa primeira aula sobre filas ele explicou o que é e como funciona e apresentou brevemente os métodos que são utilizados em fila como enqueue, dequeue, isEmpty, front, size e print. Basicamente o primeiro item da fila é o primeiro a sair diferente da pilha.
 <br><br>
 <h3>Aula 20 - Implementando os métodos da classe Fila<h3>
-
+Essa aula foi mais prática e foi ensinado e testado na pratica todos os métodos criados anteriomente na aula 19 e todos os métodos deram certo.
 <br><br>

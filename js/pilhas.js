@@ -44,5 +44,5 @@ pilha.push(1);
 pilha.push(2);
 pilha.push(3);
 
-// console.log(pilha.isEmpty());
-// pilha.print();
+console.log(pilha.isEmpty());
+pilha.print();
